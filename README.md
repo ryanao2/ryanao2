@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+## I am an early career paleoclimatologist and data scientist who loves sharing information on what I'm researching!
+## Currently a M.S. Student at Iowa State University in the Geology department, studing speleothems from Portugal to continue our understanding of hydroclimate shifts during the last glacial period!
 <!--
 **ryanao2/ryanao2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
